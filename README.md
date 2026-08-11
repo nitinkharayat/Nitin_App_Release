@@ -119,6 +119,12 @@ No commercial publishing rights are granted automatically by downloading an APK 
 GitHub:
 https://github.com/nitinkharayat
 
+X:
+https://x.com/NiTiN_KHARaYaT_
+
+Linkedin:
+www.linkedin.com/in/nitin-kharayat-0b523340a
+
 ---
 
 ## 📬 Licensing & Commercial Requests
