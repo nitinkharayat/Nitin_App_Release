@@ -10,8 +10,7 @@ This repository is primarily used to distribute **APK files and other applicatio
 
 | Application    | Description                          | Latest Release | Source Code                                                                              |
 | -------------- | ------------------------------------ | -------------- | ---------------------------------------------------------------------------------------- |
-| **PCAG**       | Password Checker & Generator         | Coming Soon    | [View Repository](https://github.com/nitinkharayat/PCAG-PASSWORD-CHECKER-AND-GENERATOR-) |
-| **Astra**      | Security-focused application project | Coming Soon    | —                                                                                        |
+| **PCAG**       | Password Checker & Generator         | V.1.0.0.    | [View Repository](https://github.com/nitinkharayat/PCAG-PASSWORD-CHECKER-AND-GENERATOR-) |                                                                                     |
 
 > Applications and release versions will be added and updated over time.
 
